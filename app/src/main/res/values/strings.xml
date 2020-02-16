@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">L2SIOQViaGqTLINvONaP23gx3xexYK4aGB24ceLe</string>
+    <string name="back4app_client_key">DdP8zutDY0R5M2aT1L6rBCbSspLd2EKfAD31ELlq</string>
+
+</resources>
